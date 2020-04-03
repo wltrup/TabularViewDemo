@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TabularView",
+        "repositoryURL": "git@github.com:wltrup/TabularView.git",
+        "state": {
+          "branch": null,
+          "revision": "d38614052337c1134d4d00f42386bf475b547baf",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
