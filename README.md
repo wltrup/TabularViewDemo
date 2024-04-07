@@ -27,10 +27,6 @@ but they're too large to display inline, so here's a screenshot of the demo app 
 <img src="/TabularView.png" alt="A screen shot of the demo app for the TabularView package" width="417">
 </p>
 
-## Author
-
-Wagner Truppel, trupwl@gmail.com
-
 ## License
 
 **TabularViewDemo** is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
